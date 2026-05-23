@@ -1,0 +1,90 @@
+Bitte analysiere den kompletten Code dieses Projekts und überarbeite ihn vollständig zu einem professionellen Ingame‑Item‑Shop namens „AdventureCraft“.
+
+WICHTIG:
+– Der Domainname ist irrelevant und soll ignoriert werden.
+– Der Shop verkauft rein kosmetische Ingame‑Items (Pets, Hüte, Masken, Accessoires, Skins).
+– KEINE Fähigkeiten, KEIN Pay‑to‑Win.
+– Der Stil der Website soll grundsätzlich gleich bleiben: modern, dunkel, leicht bläulich, professionell.
+
+BILDER:
+Ich lade dir gleich Produktbilder hoch – bitte verwende sie in GENAU der Reihenfolge der folgenden Itemliste (erstes Bild = erstes Item usw.).
+
+ITEMLISTE (bitte eindeutige, coole deutsche Namen vergeben, inspiriert von Fantasy/Mittelalter, aber modern klingend):
+
+SELTEN (Preis: 1 CHF, Farbe: Blau):
+1. Cakeman Plushie
+2. Captain Hat
+3. Pirate Hat
+4. Christmas Hat
+5. Cowboy Hat
+6. Straw Hat
+7. Sombrero
+8. Pumpkin Hat
+9. Scarf
+10. Item Satchel
+
+EPISCH (Preis: 2 CHF, Farbe: Violett):
+11. Top Hat
+12. Wide Brim Hat
+13. Tundra Hood
+14. Horns
+15. Quiver
+16. Bandolier
+17. Holstered Belt
+18. Hermes Boots
+
+LEGENDÄR (Preis: 4 CHF, Farbe: Gold):
+19. Overtop Hat
+20. Pope Hat
+21. Wizard Hat
+22. Dragon Skull
+23. King Mask
+24. Katana
+25. Wings
+
+MYTHISCH (Preis: 5 CHF, Farbe: Rot, glänzend/fett):
+26. Crown
+27. Skull
+28. Katana (mythische Version)
+29. Wings (mythische Version)
+30. Hermes Boots (mythische Version)
+
+ANFORDERUNGEN AN DIE ITEMS:
+– Jedes Item soll einen coolen, deutschen Fantasy‑Namen bekommen (z. B. „Der Frostwanderer‑Hut“, „Maske des alten Königs“, „Himmelsläufer‑Stiefel“).
+– Jedes Item soll eine kurze epische Mini‑Lore/Story erhalten (2–4 Sätze).
+– Die Lore darf humorvolle, indirekte Anspielungen auf moderne Ereignisse enthalten, aber NICHT direkt.
+– Die Lore soll zur Seltenheit passen (selten = leicht, episch = stärker, legendär = heroisch, mythisch = göttlich/übertrieben).
+
+PREISLOGIK:
+– Selten = 1 CHF
+– Episch = 2 CHF
+– Legendär = 4 CHF
+– Mythisch = 5 CHF
+
+ZAHLUNGSHINWEIS (bitte als eigene Sektion einbauen):
+Titel: „So funktioniert’s (mit Twint)“
+Text:
+1. Item auswählen – aus der Liste oben oder per Direktnachricht  
+2. Preis erfragen / bestätigen – ich nenne dir den Fixpreis in CHF  
+3. Twint‑Code erhalten – du zahlst bequem mit der Twint‑App  
+4. Lieferung ingame – sofort nach Zahlungseingang  
+
+Zusätzliche Hinweise (mit Icons oder Häkchen):
+– Kein Account nötig  
+– Keine versteckten Gebühren  
+– Du erhältst das Item dauerhaft  
+
+DESIGN:
+– Grundlayout beibehalten.
+– Farben: dunkel, bläuliche Akzente.
+– Seltenheitsfarben korrekt anwenden (Blau, Violett, Gold, Rot glänzend).
+– Produktkarten modern, klar strukturiert.
+– Bilder korrekt zugeordnet (Reihenfolge beachten).
+– Alle alten Texte, Preise, Bilder, Logos, Markennamen ersetzen.
+
+MARKENNAME:
+– Überall „AdventureCraft“ verwenden.
+
+AUSGABE:
+– Bitte gib mir nach der Überarbeitung eine Liste aller Dateien, die du geändert hast.
+– Stelle sicher, dass alle Items korrekt sortiert, benannt, bepreist und mit Lore versehen sind.
